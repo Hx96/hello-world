@@ -1,2 +1,2 @@
 # hello-world
-test Repository
+test good or bad Repository
